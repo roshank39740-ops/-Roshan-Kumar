@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Microphone Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,32 C48.48,32 44,36.48 44,42 L44,56 C44,61.52 48.48,66 54,66 C59.52,66 64,61.52 64,56 L64,42 C64,36.48 59.52,32 54,32 Z" />
+    <!-- Microphone Cradle -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M37,52 C37,61.39 44.61,69 54,69 C63.39,69 71,61.39 71,52" />
+    <!-- Stand and Base -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,69 L54,77 M43,77 L65,77" />
+    <!-- Sound Waves Left -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,44 C27,47.5 27,56.5 30,60 M22,40 C18,45 18,59 22,64" />
+    <!-- Sound Waves Right -->
+    <path
+        android:strokeColor="#818CF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M78,44 C81,47.5 81,56.5 78,60 M86,40 C90,45 90,59 86,64" />
+    <!-- AI Sparkle accent -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M66,28 L68,23 L73,21 L68,19 L66,14 L64,19 L59,21 L64,23 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Recorded AI",
+  "description": "Smart AI voice recorder for meetings, lectures, and interviews with automated speech-to-text, summaries, and daily reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
